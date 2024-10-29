@@ -20,7 +20,6 @@
   - Age: 20 nulls
   - Month: 50 nulls
   - Response: 30 nulls
-  - 
 ## Data Treatment Applied
 * Age: Median imputation
 * Month: Mode imputation
@@ -43,7 +42,6 @@
 * Primary age range: 30-40 years
 * Mean age: 41 years
 * Notable outliers: 60+ group
-* 
 ### Findings
 * Age Group 31-40: Largest segment
   - 16,187 negative responses
@@ -154,7 +152,6 @@
 ## Monthly Performance
 * Peak months: May, August
 * Low months: December, March
-* 
 ### Findings
 * May: 18.4% success rate
 * August: 17.2% success rate
@@ -176,7 +173,6 @@
 ## Contact History
 * Single contact: 65% customers
 * Multiple contacts: 35% customers
-* 
 ### Findings
 * Diminishing returns after 3 contacts
 * Previous success indicates future potential
